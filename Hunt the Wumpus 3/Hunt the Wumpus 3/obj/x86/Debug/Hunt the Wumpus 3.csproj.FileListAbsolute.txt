@@ -1,0 +1,10 @@
+Z:\Development\Hunt the Wumpus 3\Hunt the Wumpus 3\Hunt the Wumpus 3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Development\Hunt the Wumpus 3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Hunt the Wumpus 3.exe
+Z:\Development\Hunt the Wumpus 3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Hunt the Wumpus 3.pdb
+Z:\Development\Hunt the Wumpus 3\Hunt the Wumpus 3\Hunt the Wumpus 3\obj\x86\Debug\Hunt the Wumpus 3.exe
+Z:\Development\Hunt the Wumpus 3\Hunt the Wumpus 3\Hunt the Wumpus 3\obj\x86\Debug\Hunt the Wumpus 3.pdb
+C:\Users\Oscar\Desktop\Hunt the Wumpus 3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Hunt the Wumpus 3.exe
+C:\Users\Oscar\Desktop\Hunt the Wumpus 3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Hunt the Wumpus 3.pdb
+C:\Users\Oscar\Desktop\Hunt the Wumpus 3\Hunt the Wumpus 3\Hunt the Wumpus 3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Oscar\Desktop\Hunt the Wumpus 3\Hunt the Wumpus 3\Hunt the Wumpus 3\obj\x86\Debug\Hunt the Wumpus 3.exe
+C:\Users\Oscar\Desktop\Hunt the Wumpus 3\Hunt the Wumpus 3\Hunt the Wumpus 3\obj\x86\Debug\Hunt the Wumpus 3.pdb
