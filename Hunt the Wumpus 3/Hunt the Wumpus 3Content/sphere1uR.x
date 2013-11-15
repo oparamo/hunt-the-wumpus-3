@@ -642,7 +642,7 @@ Frame sphere1uRFrame
 
                 TextureFileName
                 {
-                    "White.png";
+                    "tWhite.png";
                 }
             }
         }

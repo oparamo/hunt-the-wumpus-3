@@ -1,1 +1,14 @@
 Content\Arial.xnb
+Content\arrow_icon.xnb
+Content\bat_icon.xnb
+Content\pit_icon.xnb
+Content\player_icon.xnb
+Content\wumpus_icon.xnb
+Content\tBlue.xnb
+Content\tPink.xnb
+Content\tYellow.xnb
+Content\ground.xnb
+Content\cylinder10uR.xnb
+Content\sphere1uR.xnb
+Content\tGreen_0.xnb
+Content\tWhite_0.xnb

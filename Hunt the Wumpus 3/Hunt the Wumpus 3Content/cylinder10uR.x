@@ -808,7 +808,7 @@ Frame cylinder10uRFrame
 
                 TextureFileName
                 {
-                    "BarrierPurple.png";
+                    "tGreen.png";
                 }
             }
         }
