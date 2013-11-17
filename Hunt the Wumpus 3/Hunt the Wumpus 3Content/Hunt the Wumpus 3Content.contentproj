@@ -88,23 +88,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="tBlue.png">
-      <Name>tBlue</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="tPink.png">
-      <Name>tPink</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="tYellow.png">
-      <Name>tYellow</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="grounda.png">
       <Name>grounda</Name>
       <Importer>TextureImporter</Importer>

@@ -19,6 +19,14 @@ namespace Hunt_the_Wumpus_3 {
         }
     }
 
+    //cylinder class
+    class cylinder : GameObject {
+        public void LoadContent(ContentManager content, string modelName) {
+            Model = content.Load<Model>(modelName);
+            Position = Vector3.Down;
+        }
+    }
+
     //camera constants
     class GameConstants {
         public const float NearClip = 1.0f;
