@@ -83,12 +83,12 @@
       <Time>2013-11-15T08:10:03.7738041-06:00</Time>
     </Item>
     <Item>
-      <Source>ground.png</Source>
-      <Name>ground</Name>
+      <Source>grounda.png</Source>
+      <Name>grounda</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\ground.xnb</Output>
+      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\grounda.xnb</Output>
       <Time>2013-11-15T09:47:23.2388024-06:00</Time>
     </Item>
     <Item>
@@ -101,7 +101,7 @@
       <Time>2013-11-15T08:28:20.2555193-06:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\cylinder10uR_0.xml</Key>
-        <Value>2013-11-15T10:52:18.1135765-06:00</Value>
+        <Value>2013-11-16T21:03:04.5938608-06:00</Value>
       </Dependency>
       <Request>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tGreen_0.xnb</Request>
     </Item>
@@ -115,9 +115,23 @@
       <Time>2013-11-15T08:28:40.1516573-06:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\sphere1uR_0.xml</Key>
-        <Value>2013-11-15T10:52:18.1765801-06:00</Value>
+        <Value>2013-11-16T21:03:04.6508641-06:00</Value>
       </Dependency>
       <Request>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tWhite_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ground.x</Source>
+      <Name>ground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\ground.xnb</Output>
+      <Time>2013-11-16T21:01:34.5417101-06:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ground_0.xml</Key>
+        <Value>2013-11-16T21:03:04.6868661-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\grounda_0.xnb</Request>
     </Item>
     <Item>
       <Source>cylinder10uR.x</Source>
@@ -164,6 +178,29 @@
       <Options>None</Options>
       <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tWhite_0.xnb</Output>
       <Time>2010-08-26T14:57:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ground.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ground_0.xml</Output>
+      <Time>2013-11-16T21:01:34.5417101-06:00</Time>
+    </Item>
+    <Item>
+      <Source>grounda.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\grounda_0.xnb</Output>
+      <Time>2013-11-15T09:47:23.2388024-06:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

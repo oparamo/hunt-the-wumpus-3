@@ -57,7 +57,7 @@ Frame ground100uRFrame
 
                 TextureFileName
                 {
-                    "ground.png";
+                    "grounda.png";
                 }
             }
         }
