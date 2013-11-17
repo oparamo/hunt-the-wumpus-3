@@ -4,6 +4,19 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
 namespace Hunt_the_Wumpus_3 {
+
+    class GameConstants {
+        //camera constants
+        public const float NearClip = 1.0f;
+        public const float FarClip = 1000.0f;
+        public const float ViewAngle = 45.0f;
+
+        //player view constants
+        public const float Velocity = 0.75f;
+        public const float TurnSpeed = 0.025f;
+        public const int MaxRange = 98;
+    }
+
     //3d gameobject class
     class GameObject {
         public Model Model { get; set; }
@@ -19,10 +32,27 @@ namespace Hunt_the_Wumpus_3 {
         }
     }
 
-    //cylinder class
-    class cylinder : GameObject {
+    class PlayerView : GameObject {
+        public float ForwardDirection { get; set; }
+        public int MaxRange { get; set; }
+
+        public PlayerView() : base() {
+            ForwardDirection = 0.0f;
+            MaxRange = GameConstants.MaxRange;
+        }
+    }
+
+    //3d objects to represent the map
+    class MapRep : GameObject {
+        public string MapType { get; set; }
+
+        public MapRep() : base() {
+            MapType = null;
+        }
+
         public void LoadContent(ContentManager content, string modelName) {
             Model = content.Load<Model>(modelName);
+            MapType = modelName;
             Position = Vector3.Down;
         }
 
@@ -34,23 +64,17 @@ namespace Hunt_the_Wumpus_3 {
 
             foreach (ModelMesh mesh in Model.Meshes) {
                 foreach (BasicEffect effect in mesh.Effects) {
-                    effect.World = worldMatrix * transforms[mesh.ParentBone.Index];
+                    effect.World =
+                        worldMatrix * transforms[mesh.ParentBone.Index];
                     effect.View = view;
                     effect.Projection = projection;
-                    
+
                     effect.EnableDefaultLighting();
                     effect.PreferPerPixelLighting = true;
                 }
                 mesh.Draw();
             }
         }
-    }
-
-    //camera constants
-    class GameConstants {
-        public const float NearClip = 1.0f;
-        public const float FarClip = 1000.0f;
-        public const float ViewAngle = 45.0f;
     }
 
     //camera class

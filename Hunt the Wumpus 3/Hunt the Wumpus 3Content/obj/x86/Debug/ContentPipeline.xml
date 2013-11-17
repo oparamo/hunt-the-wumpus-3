@@ -56,52 +56,28 @@
       <Time>2013-11-15T07:05:32.1213066-06:00</Time>
     </Item>
     <Item>
-      <Source>tBlue.png</Source>
-      <Name>tBlue</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tBlue.xnb</Output>
-      <Time>2013-11-15T08:07:35.0522977-06:00</Time>
-    </Item>
-    <Item>
-      <Source>tPink.png</Source>
-      <Name>tPink</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tPink.xnb</Output>
-      <Time>2013-11-15T08:08:06.247082-06:00</Time>
-    </Item>
-    <Item>
-      <Source>tYellow.png</Source>
-      <Name>tYellow</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tYellow.xnb</Output>
-      <Time>2013-11-15T08:10:03.7738041-06:00</Time>
-    </Item>
-    <Item>
       <Source>grounda.png</Source>
       <Name>grounda</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\grounda.xnb</Output>
-      <Time>2013-11-15T09:47:23.2388024-06:00</Time>
+      <Time>2013-11-17T13:40:33.8815137-06:00</Time>
     </Item>
     <Item>
       <Source>cylinder10uR.x</Source>
       <Name>cylinder10uR</Name>
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.06</Data>
+      </Parameters>
       <Options>None</Options>
       <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\cylinder10uR.xnb</Output>
       <Time>2013-11-15T08:28:20.2555193-06:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\cylinder10uR_0.xml</Key>
-        <Value>2013-11-16T21:03:04.5938608-06:00</Value>
+        <Value>2013-11-17T13:40:39.0528095-06:00</Value>
       </Dependency>
       <Request>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tGreen_0.xnb</Request>
     </Item>
@@ -110,12 +86,15 @@
       <Name>sphere1uR</Name>
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">3</Data>
+      </Parameters>
       <Options>None</Options>
       <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\sphere1uR.xnb</Output>
       <Time>2013-11-15T08:28:40.1516573-06:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\sphere1uR_0.xml</Key>
-        <Value>2013-11-16T21:03:04.6508641-06:00</Value>
+        <Value>2013-11-17T13:40:39.1228135-06:00</Value>
       </Dependency>
       <Request>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tWhite_0.xnb</Request>
     </Item>
@@ -129,7 +108,7 @@
       <Time>2013-11-16T21:01:34.5417101-06:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\ground_0.xml</Key>
-        <Value>2013-11-16T21:03:04.6868661-06:00</Value>
+        <Value>2013-11-17T13:40:39.1568154-06:00</Value>
       </Dependency>
       <Request>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\grounda_0.xnb</Request>
     </Item>
@@ -200,7 +179,7 @@
       </Parameters>
       <Options>None</Options>
       <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\grounda_0.xnb</Output>
-      <Time>2013-11-15T09:47:23.2388024-06:00</Time>
+      <Time>2013-11-17T13:40:33.8815137-06:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

@@ -4,9 +4,6 @@ Content\bat_icon.xnb
 Content\pit_icon.xnb
 Content\player_icon.xnb
 Content\wumpus_icon.xnb
-Content\tBlue.xnb
-Content\tPink.xnb
-Content\tYellow.xnb
 Content\grounda.xnb
 Content\cylinder10uR.xnb
 Content\sphere1uR.xnb

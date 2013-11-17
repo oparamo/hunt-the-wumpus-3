@@ -80,11 +80,13 @@
       <Name>cylinder10uR</Name>
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
+      <ProcessorParameters_Scale>0.06</ProcessorParameters_Scale>
     </Compile>
     <Compile Include="sphere1uR.x">
       <Name>sphere1uR</Name>
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
+      <ProcessorParameters_Scale>3</ProcessorParameters_Scale>
     </Compile>
   </ItemGroup>
   <ItemGroup>

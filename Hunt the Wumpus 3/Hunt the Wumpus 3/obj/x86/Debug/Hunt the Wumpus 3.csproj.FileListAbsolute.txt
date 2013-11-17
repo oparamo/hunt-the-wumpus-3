@@ -14,9 +14,6 @@ C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wum
 C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\pit_icon.xnb
 C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\player_icon.xnb
 C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\wumpus_icon.xnb
-C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tBlue.xnb
-C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tPink.xnb
-C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tYellow.xnb
 C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\cylinder10uR.xnb
 C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\sphere1uR.xnb
 C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tGreen_0.xnb
