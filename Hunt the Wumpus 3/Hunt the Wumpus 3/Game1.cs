@@ -1,6 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
+using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.GamerServices;
@@ -33,7 +33,7 @@ namespace Hunt_the_Wumpus_3 {
             //initializes the room and line representations
             reps[0] = new MapRep();
             reps[0].LoadContent(Content, "sphere1uR");
-            reps[0].Position = new Vector3(0, 0, 30);
+            reps[0].Position = new Vector3(0, 1, 30);
             reps[1] = new MapRep();
             reps[1].LoadContent(Content, "cylinder10uR");
             reps[1].Position = new Vector3(10, 0, 30);
@@ -62,8 +62,7 @@ namespace Hunt_the_Wumpus_3 {
 
             float rotation = 0.0f;
             Vector3 position = Vector3.Zero;
-            gameCamera.Update(rotation, position,
-                GraphicsDevice.Viewport.AspectRatio);
+            gameCamera.Update(rotation, position, GraphicsDevice.Viewport.AspectRatio);
 
             base.Update(gameTime);
         }
@@ -82,15 +81,13 @@ namespace Hunt_the_Wumpus_3 {
         }
 
         private void DrawTerrain(Model model) {
-            foreach (ModelMesh mesh in model.Meshes)
-            {
-                foreach (BasicEffect effect in mesh.Effects)
-                {
+            foreach (ModelMesh mesh in model.Meshes) {
+                foreach (BasicEffect effect in mesh.Effects) {
                     effect.EnableDefaultLighting();
                     effect.PreferPerPixelLighting = true;
                     effect.World = Matrix.Identity;
 
-                    // Use the matrices provided by the game camera
+                    //use the matrices provided by the game camera
                     effect.View = gameCamera.ViewMatrix;
                     effect.Projection = gameCamera.ProjectionMatrix;
                 }
