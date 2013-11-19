@@ -77,7 +77,7 @@
       <Time>2013-11-15T08:28:20.2555193-06:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\cylinder10uR_0.xml</Key>
-        <Value>2013-11-19T00:01:05.5741773-06:00</Value>
+        <Value>2013-11-19T01:29:30.6486102-06:00</Value>
       </Dependency>
       <Request>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tGreen_0.xnb</Request>
     </Item>
@@ -91,7 +91,7 @@
       <Time>2013-11-18T23:49:21.7339199-06:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\sphere1uR_0.xml</Key>
-        <Value>2013-11-19T00:01:05.6481815-06:00</Value>
+        <Value>2013-11-19T01:29:30.7266147-06:00</Value>
       </Dependency>
       <Request>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tWhite_0.xnb</Request>
     </Item>
@@ -105,7 +105,7 @@
       <Time>2013-11-16T21:01:34.5417101-06:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\ground_0.xml</Key>
-        <Value>2013-11-19T00:01:05.6871838-06:00</Value>
+        <Value>2013-11-19T01:29:31.1336379-06:00</Value>
       </Dependency>
       <Request>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\grounda_0.xnb</Request>
     </Item>
