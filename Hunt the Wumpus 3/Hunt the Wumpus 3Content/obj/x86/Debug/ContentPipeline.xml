@@ -7,8 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\Arial.xnb</Output>
-      <Time>2013-11-15T07:07:02.8434956-06:00</Time>
+      <Output>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2013-11-18T21:21:30.4969623-06:00</Time>
     </Item>
     <Item>
       <Source>arrow_icon.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\arrow_icon.xnb</Output>
-      <Time>2013-11-15T07:05:32.1163063-06:00</Time>
+      <Output>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\arrow_icon.xnb</Output>
+      <Time>2013-11-18T21:21:30-06:00</Time>
     </Item>
     <Item>
       <Source>bat_icon.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\bat_icon.xnb</Output>
-      <Time>2013-11-15T07:05:32.1173064-06:00</Time>
+      <Output>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\bat_icon.xnb</Output>
+      <Time>2013-11-18T21:21:30-06:00</Time>
     </Item>
     <Item>
       <Source>pit_icon.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\pit_icon.xnb</Output>
-      <Time>2013-11-15T07:05:32.1193065-06:00</Time>
+      <Output>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\pit_icon.xnb</Output>
+      <Time>2013-11-18T21:21:30-06:00</Time>
     </Item>
     <Item>
       <Source>player_icon.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\player_icon.xnb</Output>
-      <Time>2013-11-15T07:05:32.1203065-06:00</Time>
+      <Output>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\player_icon.xnb</Output>
+      <Time>2013-11-18T21:21:30-06:00</Time>
     </Item>
     <Item>
       <Source>wumpus_icon.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\wumpus_icon.xnb</Output>
-      <Time>2013-11-15T07:05:32.1213066-06:00</Time>
+      <Output>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\wumpus_icon.xnb</Output>
+      <Time>2013-11-18T21:21:30-06:00</Time>
     </Item>
     <Item>
       <Source>grounda.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\grounda.xnb</Output>
-      <Time>2013-11-17T13:40:33.8815137-06:00</Time>
+      <Output>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\grounda.xnb</Output>
+      <Time>2013-11-18T21:21:30-06:00</Time>
     </Item>
     <Item>
       <Source>cylinder10uR.x</Source>
@@ -73,30 +73,13 @@
         <Data Key="Scale">0.06</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\cylinder10uR.xnb</Output>
-      <Time>2013-11-15T08:28:20.2555193-06:00</Time>
+      <Output>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\cylinder10uR.xnb</Output>
+      <Time>2013-11-18T21:21:30.5569803-06:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\cylinder10uR_0.xml</Key>
-        <Value>2013-11-17T13:40:39.0528095-06:00</Value>
+        <Value>2013-11-18T22:51:01.9826858-06:00</Value>
       </Dependency>
-      <Request>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tGreen_0.xnb</Request>
-    </Item>
-    <Item>
-      <Source>sphere1uR.x</Source>
-      <Name>sphere1uR</Name>
-      <Importer>XImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-      <Parameters>
-        <Data Key="Scale">3</Data>
-      </Parameters>
-      <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\sphere1uR.xnb</Output>
-      <Time>2013-11-15T08:28:40.1516573-06:00</Time>
-      <Dependency>
-        <Key>obj\x86\Debug\sphere1uR_0.xml</Key>
-        <Value>2013-11-17T13:40:39.1228135-06:00</Value>
-      </Dependency>
-      <Request>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tWhite_0.xnb</Request>
+      <Request>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tGreen_0.xnb</Request>
     </Item>
     <Item>
       <Source>ground.x</Source>
@@ -104,20 +87,20 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\ground.xnb</Output>
-      <Time>2013-11-16T21:01:34.5417101-06:00</Time>
+      <Output>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\ground.xnb</Output>
+      <Time>2013-11-18T21:21:30.5569803-06:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\ground_0.xml</Key>
-        <Value>2013-11-17T13:40:39.1568154-06:00</Value>
+        <Value>2013-11-18T22:51:02.2217336-06:00</Value>
       </Dependency>
-      <Request>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\grounda_0.xnb</Request>
+      <Request>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\grounda_0.xnb</Request>
     </Item>
     <Item>
       <Source>cylinder10uR.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\cylinder10uR_0.xml</Output>
-      <Time>2013-11-15T08:28:20.2555193-06:00</Time>
+      <Time>2013-11-18T21:21:30.5569803-06:00</Time>
     </Item>
     <Item>
       <Source>tGreen.png</Source>
@@ -132,15 +115,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tGreen_0.xnb</Output>
-      <Time>2013-11-15T08:10:53.127627-06:00</Time>
+      <Output>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tGreen_0.xnb</Output>
+      <Time>2013-11-18T21:21:30-06:00</Time>
     </Item>
     <Item>
       <Source>sphere1uR.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\sphere1uR_0.xml</Output>
-      <Time>2013-11-15T08:28:40.1516573-06:00</Time>
+      <Time>2013-11-18T23:14:25.4995284-06:00</Time>
     </Item>
     <Item>
       <Source>tWhite.png</Source>
@@ -155,15 +138,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tWhite_0.xnb</Output>
-      <Time>2010-08-26T14:57:44-05:00</Time>
+      <Output>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tWhite_0.xnb</Output>
+      <Time>2013-11-18T21:21:30-06:00</Time>
     </Item>
     <Item>
       <Source>ground.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\ground_0.xml</Output>
-      <Time>2013-11-16T21:01:34.5417101-06:00</Time>
+      <Time>2013-11-18T21:21:30.5569803-06:00</Time>
     </Item>
     <Item>
       <Source>grounda.png</Source>
@@ -178,19 +161,33 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\grounda_0.xnb</Output>
-      <Time>2013-11-17T13:40:33.8815137-06:00</Time>
+      <Output>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\grounda_0.xnb</Output>
+      <Time>2013-11-18T21:21:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sphere1uR.x</Source>
+      <Name>sphere1uR</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\sphere1uR.xnb</Output>
+      <Time>2013-11-18T23:14:25.4995284-06:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\sphere1uR_0.xml</Key>
+        <Value>2013-11-18T23:14:28.2718056-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\tWhite_0.xnb</Request>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
-      <TargetProfile>HiDef</TargetProfile>
+      <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Oscar\Documents\GitHub\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Robin Joseph\Dropbox\Code\Hunt-the-Wumpus-3\Hunt the Wumpus 3\Hunt the Wumpus 3\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -219,7 +216,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2013-09-04T09:47:05.0465656-05:00</Value>
+        <Value>2013-09-29T21:36:01.656273-05:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
