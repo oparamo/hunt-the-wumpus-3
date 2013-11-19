@@ -2,6 +2,7 @@
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using System;
 
 namespace Hunt_the_Wumpus_3 {
 
@@ -39,6 +40,42 @@ namespace Hunt_the_Wumpus_3 {
         public PlayerView() : base() {
             ForwardDirection = 0.0f;
             MaxRange = GameConstants.MaxRange;
+        }
+
+        public void Update(KeyboardState keyboardState, MapRep[] reps) {
+            Vector3 futurePosition = Position;
+            float turnAmount = 0;
+
+            if (keyboardState.IsKeyDown(Keys.A)) {
+                turnAmount = 1;
+            } else if (keyboardState.IsKeyDown(Keys.D)) {
+                turnAmount = -1;
+            }
+            ForwardDirection += turnAmount * GameConstants.TurnSpeed;
+            Matrix orientationMatrix = Matrix.CreateRotationY(ForwardDirection);
+
+            Vector3 movement = Vector3.Zero;
+            if (keyboardState.IsKeyDown(Keys.W)) {
+                movement.Z = 1;
+            } else if (keyboardState.IsKeyDown(Keys.S)) {
+                movement.Z = -1;
+            }
+
+            Vector3 speed = Vector3.Transform(movement, orientationMatrix);
+            speed *= GameConstants.Velocity;
+            futurePosition = Position + speed;
+
+            if (ValidateMovement(futurePosition, reps)) {
+                Position = futurePosition;
+            }
+        }
+
+        private bool ValidateMovement(Vector3 futurePosition, MapRep[] reps) {
+            //Don't allow off-terrain driving
+            if ((Math.Abs(futurePosition.X) > MaxRange) || (Math.Abs(futurePosition.Z) > MaxRange))
+                return false;
+
+            return true;
         }
     }
 

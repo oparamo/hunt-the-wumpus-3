@@ -17,6 +17,8 @@ namespace Hunt_the_Wumpus_3 {
         Camera gameCamera;
         PlayerView view;
         MapRep[] reps;
+        KeyboardState lastKeyboardState = new KeyboardState();
+        KeyboardState currentKeyboardState = new KeyboardState();
 
         public Game1() {
             graphics = new GraphicsDeviceManager(this);
@@ -105,18 +107,22 @@ namespace Hunt_the_Wumpus_3 {
             ground.Model = Content.Load<Model>("ground");
         }
 
-        protected override void UnloadContent() {
-            // TODO: Unload any non ContentManager content here
-        }
-
         protected override void Update(GameTime gameTime) {
-            // Allows the game to exit
-            if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
+            //gets the user's input
+            lastKeyboardState = currentKeyboardState;
+            currentKeyboardState = Keyboard.GetState();
+
+            //allows the game to exit
+            if ((currentKeyboardState.IsKeyDown(Keys.Escape)))
                 this.Exit();
 
-            float rotation = 0.0f;
+            /*float rotation = 0.0f;
             Vector3 position = Vector3.Zero;
-            gameCamera.Update(rotation, position, GraphicsDevice.Viewport.AspectRatio);
+            gameCamera.Update(rotation, position, GraphicsDevice.Viewport.AspectRatio);*/
+
+            view.Update(currentKeyboardState, reps);
+            float aspectRatio = graphics.GraphicsDevice.Viewport.AspectRatio;
+            gameCamera.Update(view.ForwardDirection, view.Position, aspectRatio);
 
             base.Update(gameTime);
         }
