@@ -71,7 +71,7 @@ namespace Hunt_the_Wumpus_3 {
         }
 
         private bool ValidateMovement(Vector3 futurePosition, MapRep[] reps) {
-            //Don't allow off-terrain driving
+            //don't allow off-terrain driving
             if ((Math.Abs(futurePosition.X) > MaxRange) || (Math.Abs(futurePosition.Z) > MaxRange))
                 return false;
 

@@ -135,7 +135,6 @@ namespace Hunt_the_Wumpus_3 {
         protected override void Draw(GameTime gameTime) {
             GraphicsDevice.Clear(Color.WhiteSmoke);
             spriteBatch.Begin(SpriteSortMode.Immediate, BlendState.AlphaBlend);
-            //Vector2 FontOrigin = Font.MeasureString(output) / 2;
             Vector2 FontOrigin = new Vector2(0,0);
             spriteBatch.DrawString(Font, output, DrawPos, Color.Black,
                 0, FontOrigin, 1.0f, SpriteEffects.None, 0.5f);
